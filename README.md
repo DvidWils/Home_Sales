@@ -40,5 +40,5 @@
 
 ## Resources
 
-Relied on in class activites and examples from the instructor.
-ChatGPT was used for conceptual support, as well as, for clarity with data analysis and visualization techniques.
+Relied on in class activites and examples from the instructor i.e. curriculum content.
+ChatGPT was used for conceptual support, as well as, for clarity with data analysis.
