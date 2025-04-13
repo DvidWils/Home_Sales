@@ -37,6 +37,15 @@
 
 ---
 
+## Using the Query
+
+1. Open the notebook `Home_Sales_colab.ipynb` in Google Colab (or a Jupyter environment).
+2. Run all cells in order.
+3. Observe query outputs and runtime.
+4. Use the query's output to draw insights on pricing trends and compare the sales performance.
+
+---
+
 ## Resources
 
 Relied on in class activites and examples from the instructor i.e. curriculum content.
