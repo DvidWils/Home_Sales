@@ -6,7 +6,6 @@
 - Create and manage temporary tables for SQL querying.
 - Analyze average home prices using different filters/attributes.
 - Compare performance between uncached, cached, and partitioned Parquet data queries.
-- Apply best practices in Spark caching, partitioning, and performance measurement.
 
 ---
 
